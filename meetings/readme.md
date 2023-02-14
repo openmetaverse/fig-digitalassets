@@ -24,7 +24,7 @@ Below is a list of all prior completed meetings and related resources.
 
 | No   | Date       | Time | Agenda  | Media | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
-| 0001 | 2023-02-13 | 1800 UTC | [link](https://github.com/Open-MV/fig-digitalassets/discussions/2) | [Recording](https://github.com/Open-MV/fig-digitalassets/raw/main/meetings/media/digitalassets-20230213.m4a) | N/A | N/A |
+| 0001 | 2023-02-13 | 1700 UTC | [link](https://github.com/Open-MV/fig-digitalassets/discussions/2) | [Recording](https://github.com/Open-MV/fig-digitalassets/raw/main/meetings/media/digitalassets-20230214.m4a) | N/A | N/A |
 
 # General Resources
 
