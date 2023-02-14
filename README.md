@@ -2,6 +2,8 @@
 
 This repository holds materials for the Open Metaverse Foundation Interest Group for Digital Assets (FIG Digital Assets).
 
+## View [weekly meetings](./meetings/readme.md#Previous-Meetings) with the agenda, notes and audio recordings.
+
 ## Description of FIG Digital Assets
 
 The Digital Assets Foundational Interest Group (FIG) is committed to fostering open source and standards related to digital assets and objects created, consumed or destroyed. This work includes their relationships at all levels where a digital asset may not be originated but consumed in any given centralized and decentralized system.
