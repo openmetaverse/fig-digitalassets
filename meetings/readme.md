@@ -28,7 +28,7 @@ Below is a list of all prior completed meetings and related resources.
 | 0002 | 2023-02-20 | 1700 UTC | [link](https://github.com/openmetaverse/fig-digitalassets/discussions/3) | [Recording](https://github.com/openmetaverse/fig-digitalassets/raw/main/meetings/media/digitalassets-20230220.m4a) | N/A | N/A |
 | 0003 | 2023-03-13 | 1700 UTC | [link](https://github.com/openmetaverse/fig-digitalassets/discussions/5) | [Recording](https://github.com/openmetaverse/fig-digitalassets/raw/main/meetings/media/digitalassets-20230313.m4a) | N/A | N/A |
 | 0004 | 2023-03-27 | 1700 UTC | N/A | [Recording](https://github.com/openmetaverse/fig-digitalassets/raw/main/meetings/media/digitalassets-20230327.m4a) | N/A | N/A |
-| 0005 | 2023-04-10 | 1700 UTC | N/A | [Recording](https://github.com/openmetaverse/fig-digitalassets/raw/main/meetings/media/digitalassets-20230410.ogg) | [Summary](https://github.com/openmetaverse/fig-digitalassets/raw/main/meetings/minutes/20230410-digitalassetssummary.pdf) | N/A |
+| 0005 | 2023-04-10 | 1700 UTC | N/A | [Recording](https://github.com/openmetaverse/fig-digitalassets/raw/main/meetings/media/digitalassets-20230410.ogg) | [Summary](https://github.com/openmetaverse/fig-digitalassets/raw/main/meetings/minutes/20230410-digitalassetssummary.md) | N/A |
 
 # General Resources
 
