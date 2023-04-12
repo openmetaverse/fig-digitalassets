@@ -12,7 +12,7 @@ Open Metaverse Foundation cannot work without the help and input from as many of
 
 ## Agenda Items
 
-You can find a link to the proposed agenda for the next call in the table below. The agenda for each meeting is saved as [a discussion on Github](https://github.com/Open-MV/fig-digitalassets/discussions/categories/meetings).
+You can find a link to the proposed agenda for the next call in the table below. The agenda for each meeting is saved as [a discussion on Github](https://github.com/openmetaverse/fig-digitalassets/discussions/categories/meetings).
 
 Please feel free to propose any of your topics, thoughts, or areas you feel are important to discuss.
 
@@ -24,12 +24,15 @@ Below is a list of all prior completed meetings and related resources.
 
 | No   | Date       | Time | Agenda  | Media | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
-| 0001 | 2023-02-13 | 1700 UTC | [link](https://github.com/Open-MV/fig-digitalassets/discussions/2) | [Recording](https://github.com/Open-MV/fig-digitalassets/raw/main/meetings/media/digitalassets-20230214.m4a) | N/A | N/A |
-| 0002 | 2023-02-20 | 1700 UTC | [link](https://github.com/Open-MV/fig-digitalassets/discussions/3) | [Recording](https://github.com/Open-MV/fig-digitalassets/raw/main/meetings/media/digitalassets-20230220.m4a) | N/A | N/A |
+| 0001 | 2023-02-13 | 1700 UTC | [link](https://github.com/openmetaverse/fig-digitalassets/discussions/2) | [Recording](https://github.com/openmetaverse/fig-digitalassets/raw/main/meetings/media/digitalassets-20230214.m4a) | N/A | N/A |
+| 0002 | 2023-02-20 | 1700 UTC | [link](https://github.com/openmetaverse/fig-digitalassets/discussions/3) | [Recording](https://github.com/openmetaverse/fig-digitalassets/raw/main/meetings/media/digitalassets-20230220.m4a) | N/A | N/A |
+| 0003 | 2023-03-13 | 1700 UTC | [link](https://github.com/openmetaverse/fig-digitalassets/discussions/5) | [Recording](https://github.com/openmetaverse/fig-digitalassets/raw/main/meetings/media/digitalassets-20230313.m4a) | N/A | N/A |
+| 0004 | 2023-03-27 | 1700 UTC | N/A | [Recording](https://github.com/openmetaverse/fig-digitalassets/raw/main/meetings/media/digitalassets-20230327.m4a) | N/A | N/A |
+| 0005 | 2023-04-10 | 1700 UTC | N/A | [Recording](https://github.com/openmetaverse/fig-digitalassets/raw/main/meetings/media/digitalassets-20230410.ogg) | N/A | N/A |
 
 # General Resources
 
-See [OMF Resources](https://github.com/open-mv/foundation) for additional information related to any FIG in OMF.
+See [OMF Resources](https://github.com/openmetaverse/foundation) for additional information related to any FIG in OMF.
 
 # Licensing
 
